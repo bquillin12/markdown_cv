@@ -11,9 +11,9 @@ Email
 web address
 
 # Experience  
-## Company name (make sure to put two spaces at the end of each to create line break)
+## Company name (make sure to put two spaces at the end of each line where you want to create a line break)
 * Activity description
-    + Sub-bullet level description
+    + Sub-bullet level description (put 4 spaces before inserting the "+")
 
 # Education
 
